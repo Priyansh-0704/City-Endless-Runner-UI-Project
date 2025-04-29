@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 509aa954d30ffd6469cfa2102a02b324, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  character:
+  - characterName: John
+    characterSprite: {fileID: -4908484465254277661, guid: 8988523bd87527a488985e7ed5d54a66, type: 3}
+  - characterName: Emily
+    characterSprite: {fileID: -5523310493559919428, guid: efa6f07d9f50b034db1f65a326dd0a41, type: 3}
+  - characterName: Jay
+    characterSprite: {fileID: 2185390996667782197, guid: 90644f60b5b69b743a11b448e7824590, type: 3}
